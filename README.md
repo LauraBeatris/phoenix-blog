@@ -4,7 +4,7 @@
 
 # Phoenix Blog
 
-> A simple blog made using the Phoenix Framework
+> A simple blog made with the Phoenix Framework
 
 [![Author](https://img.shields.io/badge/author-LauraBeatris-363f5f?style=flat-square)](https://github.com/LauraBeatris)
 [![Languages](https://img.shields.io/github/languages/count/LauraBeatris/phoenix-blog?color=%23363f5f&style=flat-square)](#)
