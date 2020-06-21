@@ -39,7 +39,13 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 <br />
 
-Go to ``dev.exs`` and update the database config with your credentials, then execute the following command in order to create the database:
+Configure database credentials:
+
+```
+  cp config/db.secret.example.exs config/db.secret.exs
+```
+
+Create the database:
 
 ```
 mix ecto.create
