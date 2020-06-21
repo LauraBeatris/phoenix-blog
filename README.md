@@ -45,13 +45,13 @@ Configure database credentials:
   cp config/db.secret.example.exs config/db.secret.exs
 ```
 
-Create the database:
+Create database:
 
 ```
 mix ecto.create
 ```
 
-Run the migrations
+Run migrations
 
 ```
 mix ecto.migrate
