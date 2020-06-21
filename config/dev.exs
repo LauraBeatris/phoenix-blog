@@ -2,9 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :blog_test, BlogTest.Repo,
-  username: "laura",
-  password: "123",
-  database: "blog_test_dev",
+  database: "phoenix_blog_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
